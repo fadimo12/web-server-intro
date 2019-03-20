@@ -8,7 +8,7 @@ var state = {
   messages: [{
 		id: 0,
     username: 'Guy',
-    text: 'Welcome to the chat',
+    text: 'Dont stay long',
   }]
 };
 
